@@ -1,0 +1,5 @@
+# Aucune dépendance externe n'est nécessaire car nous utilisons uniquement
+# les modules standards de Python (tkinter, sqlite3) 
+
+customtkinter==5.2.2
+pillow==10.2.0  # Pour les icônes et images dans CustomTkinter 
